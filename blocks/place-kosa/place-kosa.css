@@ -9,9 +9,6 @@
             grid-template-columns: 440px 1fr;
             gap: 48px 32px;
         }
-        .place-kosa__image{
-            min-height: 460px;
-        }
     }
     
     @media screen and (max-width: 1023px) {
@@ -19,17 +16,11 @@
             grid-template-columns: 340px 1fr;
             gap: 48px 28px;
         }
-        .place-kosa__image{
-            min-height: 440px;
-        }
     }
     
     @media screen and (max-width: 767px) {
         .place-kosa {
             grid-template-columns: repeat(2,1fr);
-        }
-        .place-kosa__image{
-            min-height: 340px;
         }
     }
     @media screen and (max-width: 425px) {
@@ -44,9 +35,5 @@
             grid-template-columns:1fr;
             gap: 32px;
             margin: 0px 0px 50px 0px;
-        }
-        .place-kosa__image{
-            min-height: 320px;
-            
         }
       } 
