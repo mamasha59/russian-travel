@@ -1,0 +1,19 @@
+.section-title {
+    font-size: 72px;
+    /* width: 45%; */
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    font-weight: bold;
+}
+ @media screen and (max-width: 767px) {
+    .section-title {
+        font-size: 42px;
+    }
+ }
+ @media screen and (max-width: 319px) {
+    .section-title {
+        font-size: 32px;
+        padding: 0 16px;
+    }
+ }

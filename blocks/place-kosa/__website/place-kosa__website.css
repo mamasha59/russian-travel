@@ -1,0 +1,8 @@
+.place-kosa__website {
+    align-self: end;
+}
+@media screen and (max-width: 319px) {
+    .place-kosa__website{
+        padding: 0 16px;
+    }
+}

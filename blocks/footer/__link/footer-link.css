@@ -1,0 +1,27 @@
+.footer__link {
+    color: #ffff;
+    text-decoration: none;
+    margin: 0px 18px 0px 0px;
+    }
+/* .footer__link:last-child{
+  margin:0;
+} */
+    .footer__link:hover{
+        text-decoration: underline;
+    }
+    @media screen and (max-width: 767px) {
+      .footer__link {
+        font-size: 13px;
+        margin:0;
+        }
+  }
+    @media screen and (max-width: 424px) {
+        .footer__link{         
+            font-size: 24px; 
+        }
+      } 
+    /* @media screen and (max-width: 319px) {
+          .footer__link{
+            font-size: 24px;
+        }
+      } */

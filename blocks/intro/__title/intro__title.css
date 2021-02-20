@@ -1,0 +1,18 @@
+.intro__title {
+    font-size: 54px;
+    font-weight: bold;
+    margin: 92px 0px 40px 0px;
+    padding: 0;
+}
+@media screen and (max-width: 767px) {
+  .header__logo{
+    min-height: 52px;
+  }
+}
+@media screen and (max-width: 320px) {
+    .intro__title {
+        font-size: 32px;
+        min-height: 70px;
+        margin: 64px 0px 40px 0px;
+    }
+} 
