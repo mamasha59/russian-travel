@@ -2,7 +2,7 @@
     width: 100%;
     object-fit: cover;
 }
-@media screen and (max-width: 1279px) {
+/* @media screen and (max-width: 1279px) {
 .place-kosa__image{
     min-height: 460px;
     }
@@ -24,4 +24,4 @@
         min-height: 320px;
         
     }
-  } 
+  }  */

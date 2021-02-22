@@ -1,6 +1,8 @@
 .place-kosa__url-heading{
     color: #AAAA;
-    letter-spacing: 2px;
+    letter-spacing: 0.2em;
     font-size: 12px;
     margin: 0 0 12px 0;
+    line-height:12px;
+    text-transform: uppercase;
 }

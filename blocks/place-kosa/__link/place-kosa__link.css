@@ -1,4 +1,10 @@
 .place-kosa__link{
     color: #ffff;
     font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+}
+.place-kosa__link:hover{
+   opacity: 0.8;
+   transition: 1s;
 }

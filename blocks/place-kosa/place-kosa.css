@@ -23,17 +23,13 @@
             grid-template-columns: repeat(2,1fr);
         }
     }
-    @media screen and (max-width: 425px) {
+    @media screen and (max-width: 424px) {
         .place-kosa {
             grid-template-columns:1fr;
             gap: 32px;
             margin: 0px 0px 50px 0px;
         }
-      } 
-    @media screen and (max-width: 319px) {
-        .place-kosa {
-            grid-template-columns:1fr;
-            gap: 32px;
-            margin: 0px 0px 50px 0px;
+        .place-kosa:last-child {
+            margin: 0;
         }
-      } 
+      }
