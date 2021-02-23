@@ -8,10 +8,14 @@
     padding: 0;
 }
 .header__lang-link:last-child{
- margin-right: 0px;
+    margin-right: 0px;
+}
+.header__lang-link:hover{
+    opacity: 0.8;
 }
 @media screen and (max-width: 424px) {
-    .header__lang-link{
-       font-size: 18px;
+.header__lang-link{
+    font-size: 18px;
+    line-height: 20px;
     }
 } 

@@ -28,6 +28,12 @@
     z-index: -1;
     transition: 0.3s;
 }
+@media screen and (max-width:1279px){
+.cover__overlay{
+    min-height: 640px;
+        /* padding: 0 100px; */
+    }
+    }
 @media screen and (max-width:1023px){
 .cover__overlay{
     min-height: 480px;
@@ -35,7 +41,7 @@
 }
 }
 @media screen and (max-width:424px){
-        .cover__overlay{
-            min-height: 200px;
-        }
-        }
+.cover__overlay{
+    min-height: 200px;
+    }
+    }

@@ -3,18 +3,18 @@
     width: 100%;
 }
 @media screen and (max-width: 1279px) {
-    .lead__image{
-        min-height: 580px;
+.lead__image{
+    min-height: 580px;
         /* margin:0 48px 0 48px; */
     }
  }
  @media screen and (max-width: 767px) {
-    .lead__image{
-        min-height: 480px;
+.lead__image{
+    min-height: 480px;
     }
  }
  @media screen and (max-width: 424px) {
-    .lead__image{
-        min-height: 200px;
+.lead__image{
+    min-height: 200px;
     }
  }

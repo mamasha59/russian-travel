@@ -3,12 +3,12 @@
     margin: 0 auto;
 }
 @media screen and (max-width: 1279px) {
-    .lead{
-        padding: 0 48px 0 48px;
+.lead{
+    padding: 0 48px 0 48px;
     }
 }
 @media screen and (max-width: 1023px) {
-    .lead{
-        padding: 0;
+.lead{
+    padding: 0;
     }
 }

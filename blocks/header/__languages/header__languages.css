@@ -3,7 +3,7 @@
     padding: 0;
 }
 @media screen and (max-width: 767px) {
-  .header__languages{
+.header__languages{
     margin: 30px 16px 0px 0px;
 }
 }

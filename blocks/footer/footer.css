@@ -1,28 +1,28 @@
 .footer {
-    max-width: 1184px;
-    margin: 0 auto;
-    display: flex;
-    padding: 92px 0px 24px 0px;
-    justify-content: space-between;
+max-width: 1184px;
+margin: 0 auto;
+display: flex;
+padding: 92px 0px 24px 0px;
+justify-content: space-between;
 }
 @media screen and (max-width: 1279px) {
-   .footer{
-      padding: 92px 48px 24px 48px;
-   }
+.footer{
+padding: 92px 48px 24px 48px;
+ }
 }
 @media screen and (max-width:1023px){
- .footer{
-    padding: 92px 24px 24px 24px;
+.footer{
+padding: 92px 24px 24px 24px;
  }
 }
 @media screen and (max-width:767px){
-    .footer{
-       padding: 86px 24px 24px 24px;
-       flex-direction: column;
-    }
-   }
-   @media screen and (max-width: 424px) {
-      .footer{
-         padding: 64px 16px 24px 16px;
-      }
-   } 
+.footer{
+padding: 86px 24px 24px 24px;
+flex-direction: column;
+ }
+}
+@media screen and (max-width: 424px) {
+.footer{
+padding: 64px 16px 24px 16px;
+ }
+} 
