@@ -1,4 +1,4 @@
-# Проект 3: Путешествие по России
+# Проект: Путешествие по России
 ## [Ссылка на работу](https://russian-travel-lime.vercel.app/)
    https://russian-travel-lime.vercel.app/
 ### Обзор
